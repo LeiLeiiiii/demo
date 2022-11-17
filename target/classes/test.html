@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+        body, html,#allmap {width: 100%;height: 100%;overflow: hidden;margin:0;}
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=BQgIg9BRTszhwxXzDrTxIDN9aBA32MN8"></script>
+    <title>route</title>
+</head>
+<body>
+<div id="allmap"></div>
+</body>
+</html>
+<script type="text/javascript">
+
+    var map = new BMap.Map("allmap");
+
+    let str =  "116.789496,39.597531;116.790737,39.597508;116.79071,39.596041;116.785464,39.596207;116.785637,39.594774;116.784709,39.594611;116.785064,39.593494;116.781387,39.593107;116.779348,39.593091;116.779296,39.593487;116.778203,39.593379;116.777466,39.596041;116.774889,39.599164;116.774412,39.604066;116.774196,39.605446;116.770351,39.605714;116.770152,39.607559;116.768312,39.609196;116.765604,39.610642;116.764016,39.612436;116.763044,39.61324;116.762618,39.613813;116.761402,39.614373;116.757782,39.616353;116.757134,39.616486;116.754552,39.618033";
+    let str2 =  "116.789555,39.597531;116.790737,39.597508;116.79071,39.596041;116.785464,39.596207;116.785637,39.594774;116.784709,39.594611;116.785064,39.593494;116.781387,39.593107;116.779348,39.593091;116.779296,39.593487;116.778203,39.593379;116.777466,39.596041;116.774889,39.599164;116.774412,39.604066;116.774196,39.605446;116.770351,39.605714;116.770152,39.607559;116.768312,39.609196;116.765604,39.610642;116.764016,39.612436;116.763044,39.61324;116.762618,39.613813;116.761402,39.614373;116.757782,39.616353;116.757134,39.616486;116.754552,39.618033";
+    // let str2 = "116.812384,39.615914;116.812081,39.615689;116.809714,39.614525;116.806213,39.613809;116.805113,39.614337;116.800978,39.613362;116.802087,39.612297;116.797839,39.611291;116.797397,39.611765;116.796461,39.611945;116.794467,39.611687;116.792273,39.610695;116.790018,39.610537;116.79007,39.608848;116.791831,39.607374;116.790746,39.606759;116.792844,39.602159;116.789376,39.602589";
+    let strArr = str.split(';');
+    let result = [];
+    strArr.forEach(item => {
+        result.push(item.split(','));
+    });
+    var point = new BMap.Point(result[0][0],result[0][1]);
+    map.centerAndZoom(point, 15);
+    // 所有经纬度
+    let data = [];
+    result.forEach(item => {
+        data.push(new BMap.Point(Number(item[0]),Number(item[1])));
+    })
+    var polyline = new BMap.Polyline(data, {strokeColor:"blue", strokeWeight:3, strokeOpacity:1});
+    map.addOverlay(polyline);
+    map.enableScrollWheelZoom();
+
+
+    //1111
+    let strArr1 = str2.split(';');
+    let result1 = [];
+    strArr1.forEach(item => {
+        result1.push(item.split(','));
+    });
+    var point1 = new BMap.Point(result1[0][0],result1[0][1]);
+    map.centerAndZoom(point1, 15);
+    // 所有经纬度
+    let data1 = [];
+    result1.forEach(item => {
+        data1.push(new BMap.Point(Number(item[0]),Number(item[1])));
+    })
+    var polyline1 = new BMap.Polyline(data1, {strokeColor:"red", strokeWeight:3, strokeOpacity:1});
+
+
+
+    map.addOverlay(polyline1);
+
+</script>
+
+</html>

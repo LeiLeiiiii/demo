@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e82957-40a0-4d07-9a87-d0855ed1ad8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tool\maven\apache-maven-3.6.1\repository" />
+        <option name="userSettingsFile" value="D:\tool\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E7LJZAncI1N6WswNU9kPbIVVS9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\gpsexamination\src\main\resources\static" />
+      <recent name="D:\ideaProject\gpsexamination" />
+      <recent name="D:\ideaProject\gpsexamination\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gridsum.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\gpsexamination" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="GpsUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gridsum.controller.GpsUpdate" />
+      <module name="gpsexamination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gridsum.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolylineController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gridsum.controller.PolylineController" />
+      <module name="gpsexamination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gridsum.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gridsum.controller.Test" />
+      <module name="gpsexamination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gridsum.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gridsum.controller.Test1" />
+      <module name="gpsexamination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gridsum.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gridsum.utils.UrlUtils" />
+      <module name="gpsexamination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gridsum.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.PolylineController" />
+        <item itemvalue="Application.GpsUpdate" />
+        <item itemvalue="Application.UrlUtils" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e82957-40a0-4d07-9a87-d0855ed1ad8e" name="Default Changelist" comment="" />
+      <created>1661941604869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661941604869</updated>
+      <workItem from="1661941607989" duration="5073000" />
+      <workItem from="1662000535694" duration="13392000" />
+      <workItem from="1662428240218" duration="4905000" />
+      <workItem from="1662693675760" duration="3251000" />
+      <workItem from="1663136142024" duration="6132000" />
+      <workItem from="1664274453883" duration="83952000" />
+      <workItem from="1666080685040" duration="82282000" />
+      <workItem from="1667440533412" duration="23683000" />
+      <workItem from="1668234073168" duration="64000" />
+      <workItem from="1668241007305" duration="2179000" />
+      <workItem from="1668395981000" duration="1299000" />
+      <workItem from="1668491329734" duration="1960000" />
+      <workItem from="1668656007524" duration="2049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1664344312449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664344312449" />
+    <state x="688" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662001788443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1662001788443" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1667814922670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667814922670" />
+    <state x="133" y="323" key="#xdebugger.evaluate" timestamp="1667879252465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="133" y="323" key="#xdebugger.evaluate/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667879252465" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1661941660066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1661941660066" />
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom" timestamp="1668672528446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="334" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1667285185984" />
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1668656826716" />
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1668672528446" />
+    <state width="1877" height="400" key="GridCell.Tab.0.center" timestamp="1668672528445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="334" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1667285185984" />
+    <state width="1877" height="400" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1668656826716" />
+    <state width="1877" height="400" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1668672528445" />
+    <state width="1877" height="400" key="GridCell.Tab.0.left" timestamp="1668672528445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="334" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1667285185984" />
+    <state width="1877" height="400" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1668656826716" />
+    <state width="1877" height="400" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1668672528445" />
+    <state width="1877" height="400" key="GridCell.Tab.0.right" timestamp="1668672528445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="334" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1667285185984" />
+    <state width="1877" height="400" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1668656826716" />
+    <state width="1877" height="400" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1668672528445" />
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom" timestamp="1667887985328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="315" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1666080670095" />
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667887985328" />
+    <state width="1323" height="315" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1667183470638" />
+    <state width="1877" height="367" key="GridCell.Tab.1.center" timestamp="1667887985328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="315" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1666080670094" />
+    <state width="1877" height="367" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667887985328" />
+    <state width="1323" height="315" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1667183470638" />
+    <state width="1877" height="367" key="GridCell.Tab.1.left" timestamp="1667887985328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="315" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1666080670094" />
+    <state width="1877" height="367" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667887985328" />
+    <state width="1323" height="315" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1667183470638" />
+    <state width="1877" height="367" key="GridCell.Tab.1.right" timestamp="1667887985328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="315" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1666080670095" />
+    <state width="1877" height="367" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667887985328" />
+    <state width="1323" height="315" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1667183470638" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1664443532614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664443532614" />
+    <state width="689" height="370" key="XDebugger.FullValuePopup" timestamp="1664506960437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664506599872" />
+    <state width="689" height="370" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1664506960437" />
+    <state width="714" height="234" key="documentation.popup.size" timestamp="1667807371856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="714" height="234" key="documentation.popup.size/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667807371856" />
+    <state width="116" height="63" key="documentation.popup.size/0.0.1366.728@0.0.1366.728" timestamp="1664507116479" />
+    <state x="540" y="175" key="editAsTableFormatDialogDimension" timestamp="1664346690726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="editAsTableFormatDialogDimension/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664346690726" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1664357990253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664357990253" />
+    <state width="712" height="232" key="javadoc.popup.new" timestamp="1668656776159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="712" height="232" key="javadoc.popup.new/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1668656776159" />
+    <state width="507" height="163" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1668341806954" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1667816249138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1667816249138" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/IpHelper.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/HttpClientTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/UrlUtils.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/controller/GpsController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/UrlUtils.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/UrlUtils.java</url>
+          <line>318</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/utils/UrlUtils.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gridsum/controller/PolylineController.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((BasicHttpResponse)((HttpResponseProxy)response).original).reasonCatalog" custom="org.apache.http.impl.execchain.HttpResponseProxy,org.apache.http.message.BasicHttpResponse" />
+        <watch expression="((com.alibaba.fastjson2.JSONArray)((LinkedHashMap.Entry)((com.alibaba.fastjson2.JSONObject)((com.alibaba.fastjson2.JSONArray)districts).get(0)).entrySet().toArray()[6]).getValue()).get(0)" custom="com.alibaba.fastjson2.JSONObject,java.util.LinkedHashMap.Entry,com.alibaba.fastjson2.JSONArray" />
+        <watch expression="map.entrySet().toArray()[5]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

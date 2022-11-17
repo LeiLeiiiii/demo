@@ -1,0 +1,10 @@
+
+G
+java:S1602#",Remove useless curly braces around statement(å‡¹Œýÿÿÿÿ
+U
+java:S6213#":Rename this variable to not match a restricted identifier.(å‡¹Œýÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(‘í²¸þÿÿÿÿ
+O
+java:S16116"4Remove the parentheses around the "record" parameter(Î–—ýûÿÿÿÿ
+U
+java:S62136":Rename this variable to not match a restricted identifier.(Î–—ýûÿÿÿÿ

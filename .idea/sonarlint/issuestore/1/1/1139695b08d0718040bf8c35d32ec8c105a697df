@@ -1,0 +1,9 @@
+
+g
+java:S2095!"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê
+g
+java:S20955"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê
+Q	java:S125#"<This block of commented-out lines of code should be removed.(È°Ô¼
+X	java:S125F"<This block of commented-out lines of code should be removed.(’Ô·½8žÍ€˜¸0
+Y
+java:S1128"=Remove this unused import 'com.alibaba.fastjson2.JSONObject'.(¥÷s8Àµ€˜¸0

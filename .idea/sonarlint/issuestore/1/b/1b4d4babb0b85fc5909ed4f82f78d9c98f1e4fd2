@@ -1,0 +1,30 @@
+
+Z	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(ºª·+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ª·Ïîúÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( š²â
+\	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(ƒ€Ùü
+\
+java:S1192="FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(µÜ€ó
+e
+java:S1192G"JDefine a constant instead of duplicating this literal "districts" 4 times.(æöÒŒùÿÿÿÿ
+2
+java:S1643‚"Use a StringBuilder instead.(—Ó©W
+{
+java:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+{
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+O
+java:S4719="9Replace charset name argument with StandardCharsets.UTF_8(µÜ€ó
+T
+java:S1874S"9Remove this use of "writeStringToFile"; it is deprecated.(íş·ºşÿÿÿÿ
+O
+java:S4719{"9Replace charset name argument with StandardCharsets.UTF_8(µÜ€ó
+P
+java:S4719©"9Replace charset name argument with StandardCharsets.UTF_8(µÜ€ó
+P
+java:S4719æ"9Replace charset name argument with StandardCharsets.UTF_8(µÜ€ó
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ê¥ãûøÿÿÿÿ
+^
+java:S5361À"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾á

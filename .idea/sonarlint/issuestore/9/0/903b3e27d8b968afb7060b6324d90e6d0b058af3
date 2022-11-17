@@ -1,0 +1,10 @@
+
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ß˜ù•øÿÿÿÿ
+W
+java:S2259!"AA "NullPointerException" could be thrown; "map" is nullable here.(„½ˆ¿
+F
+java:S1874T"1Remove this use of "readLines"; it is deprecated.(”×
+P
+java:S4719ƒ"9Replace charset name argument with StandardCharsets.UTF_8(µÜ€ó
+W	java:S125™"<This block of commented-out lines of code should be removed.(ŠÅÅ¨ùÿÿÿÿ
+R	java:S125›"<This block of commented-out lines of code should be removed.(Åı¿ÿ

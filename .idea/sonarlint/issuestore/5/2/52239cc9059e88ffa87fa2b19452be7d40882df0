@@ -1,0 +1,16 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+V	java:S125%"<This block of commented-out lines of code should be removed.(îª†¯ûÿÿÿÿ
+W	java:S125,"<This block of commented-out lines of code should be removed.( ²a8ÅšŒñÀ0
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Ê¸õý
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ê¥ãûøÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.gridsum.iplocation.IpHelper'.(Ÿˆ »
+Y
+java:S1128">Remove this unused import 'com.gridsum.iplocation.IpLocation'.(îÙÇîýÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'com.gridsum.iplocation.IpLocationParser'.(›…†÷üÿÿÿÿ
+V
+java:S1128
+"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ

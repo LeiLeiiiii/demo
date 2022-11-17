@@ -1,0 +1,11 @@
+
+]	java:S125""<This block of commented-out lines of code should be removed.(Ğ—úüÿÿÿÿ8ø¿ŞÛÃ0
+[
+java:S1874@"9Remove this use of "writeStringToFile"; it is deprecated.(¢¶óùÿÿÿÿ8¶õİÂ0
+]	java:S125D"<This block of commented-out lines of code should be removed.(ñÆè÷ÿÿÿÿÿ8æÇéÛÃ0
+J
+java:S1611c"4Remove the parentheses around the "record" parameter(ãºß
+P
+java:S6213c":Rename this variable to not match a restricted identifier.(ãºß
+F
+java:S1874u"1Remove this use of "readLines"; it is deprecated.(”×
